@@ -32,4 +32,4 @@ Key Features
         Expansion Headers: 30-pin (15+15) header for future add-ons like an AD9850 DDS signal generator.
 
 
-        <img src="img/clips.jpg" width="400" alt="Clips">
+       HTML:<img src="img/clips.jpg" width="400" alt="Clips">
